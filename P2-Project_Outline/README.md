@@ -7,11 +7,19 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Website that allows user to input into a form to receive an insurance quote. Once the form is completed the database connects with an affiliate site API that then returns the customer a quote.  
+
 ### Features
-Include Features here
+User Input Form to receive a quote
+Thank you page popup at completion of form
+Database connection returns quote from affiliate API
+
 ### Technologies
-Include Technologies here
+Python
+Flask
+MySQL
+SQLAlchemy
+Jinja2 templates
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+I will need to learn how to connect the database with the affiliate API and possibly how to place a tracking pixel on the affiliate website.  
